@@ -37,50 +37,16 @@
 }
 
 .wave-1 {
-    content: '';
-    /* border: 1px solid yellow; */
-    display: inline-block;
-    border-radius: 50%;
-    padding: 200px;
-    margin: 25px;
+    border: 1px solid green;
+    z-index: 1;
+    color: rgb(4, 117, 117);
     position: absolute;
-    top: 65%;
-    left: -2%;
-    background-color: white;
+    margin-top: 600px;
+    margin-left: 200px;
+    width: 75%;
 }
-.wave-2 {
-    content: '';
-    /* border: 1px solid yellow; */
-    display: inline-block;
-    border-radius: 50%;
-    padding: 200px;
-    margin: 25px;
-    position: absolute;
-    top: 75%;
-    left: 15%;
-    background-color: white;
+.wave-1 P {
+    color: black;
+    margin-top: 25px;
 }
-.wave-3 {
-    content: '';
-    /* border: 1px solid yellow; */
-    display: inline-block;
-    border-radius: 50%;
-    padding: 200px;
-    margin: 25px;
-    position: absolute;
-    top: 86%;
-    left: 30%;
-    background-color: white;
-}
-.wave-4 {
-    content: '';
-    /* border: 1px solid yellow; */
-    display: inline-block;
-    border-radius: 50%;
-    padding: 300px;
-    margin: 25px;
-    position: absolute;
-    top: 80%;
-    left: 45%;
-    background-color: white;
-}
+
