@@ -45,8 +45,27 @@
     margin-left: 200px;
     width: 75%;
 }
-.wave-1 P {
+.wave-1 p {
     color: black;
     margin-top: 25px;
 }
-
+.wave-2 {
+    border: 1px solid green;
+    z-index: 1;
+    color: rgb(4, 117, 117);
+    position: absolute;
+    margin-top: 850px;
+    margin-left: 1955px;
+    
+}
+.wave-3 {
+    border: 1px solid green;
+    z-index: 1;
+    color: rgb(4, 117, 117);
+    position: absolute;
+    margin-top: 900px;
+    margin-left: 225px;
+    width: 75%;
+    text-align: justify;
+    color: black;
+}
