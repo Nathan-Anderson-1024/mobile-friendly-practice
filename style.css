@@ -12,8 +12,8 @@
     padding-bottom: 25rem;
     background-image: linear-gradient(180deg, aqua, black);
     position: absolute;
-    /* margin-top: 8rem; */
     border: 1px solid blue;
+    color: white;
 }
 .theme-title::before {
     content: '';
@@ -36,8 +36,7 @@
     background-color: white;
 }
 
-.wave-1 {
-    border: 1px solid green;
+.section-1 {
     z-index: 1;
     color: rgb(4, 117, 117);
     position: absolute;
@@ -45,12 +44,11 @@
     margin-left: 200px;
     width: 75%;
 }
-.wave-1 p {
+.section-1 p {
     color: black;
     margin-top: 25px;
 }
-.wave-2 {
-    border: 1px solid green;
+.section-2 {
     z-index: 1;
     color: rgb(4, 117, 117);
     position: absolute;
@@ -58,8 +56,7 @@
     margin-left: 1955px;
     
 }
-.wave-3 {
-    border: 1px solid green;
+.section-2-text {
     z-index: 1;
     color: rgb(4, 117, 117);
     position: absolute;
@@ -68,4 +65,16 @@
     width: 75%;
     text-align: justify;
     color: black;
+}
+.footer-content {
+    text-align: center;
+    position: absolute;
+    margin-top: 1200px;
+    width: 100%;
+    height: 200px;
+    background-color: rgb(2, 59, 59);
+}
+.footer-content p {
+    margin-top: 50px;
+    color: white;
 }
