@@ -1,3 +1,3 @@
 # mobile-friendly-practice
-mobile friendly website practice for Bitwise Class
+mobile friendly website practice for Bitwise class
 
