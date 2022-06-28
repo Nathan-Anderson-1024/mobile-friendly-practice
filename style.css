@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.theme-title {
+    text-align: center;
+    width: 100%;
+    font-size: 4rem;
+    margin-top: 8rem;
+}
