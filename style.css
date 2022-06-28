@@ -14,6 +14,7 @@
     position: absolute;
     border: 1px solid blue;
     color: white;
+    font-family: Arial, Helvetica, sans-serif
 }
 .theme-title::before {
     content: '';
